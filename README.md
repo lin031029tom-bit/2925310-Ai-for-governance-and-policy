@@ -1,4 +1,3 @@
-# 2925310-Ai-for-governance-and-policy
 # Policy Classifier Lightweight Replication
 
 This repository contains a lightweight replication package for the report:
